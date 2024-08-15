@@ -24,7 +24,7 @@ body::before {
     background: url(../images/bg_herofield.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    filter: blur(0.5vw);
+    filter: blur(0.2vw);
     z-index: -2;
 }
 
