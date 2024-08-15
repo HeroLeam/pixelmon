@@ -171,6 +171,10 @@ main .material-symbols-outlined {
     font-weight: 300;
 }
 
+main .link-external {
+    color: var(--goldenYellow);
+}
+
 main .sobre {
     margin-bottom: 60px;
 }
