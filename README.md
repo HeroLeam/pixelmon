@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-Projeto próprio de um site de divulgação de um servidor de Pixelmon.
+Projeto próprio de um site de divulgação de um servidor de Minecraft Pixelmon.
 
 ## Layout web
 ![Web 1](./src/assets/demo.jpg)
